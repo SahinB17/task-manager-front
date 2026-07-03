@@ -171,4 +171,4 @@ Gelecekde elave oluna bilecek texniki tekmillesdirmeler:
 - Frontend komponentlerinin daha kicik fayllara bolunmesi
 - Backend ucun Alembic migration sistemi
 - Daha genis test coverage
-- Production deploy ucun daha etrafli monitoring ve backup
+- Production deploy ucun daha etrafli monitoring ve backup 2321
